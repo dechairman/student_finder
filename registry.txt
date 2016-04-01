@@ -1,0 +1,4 @@
+Jonas Jonah	102030	Legon	Science	1st Year
+Kevin Steele	102031	Volta	Economics	2nd Year
+Clifton Adams	102032	Brandt	Computer Science	3rd Year
+James Arnold	102034	Guilder	Psychology	4th Year
